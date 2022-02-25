@@ -1,8 +1,3 @@
-.rpart {
-    width: 1344.9px;
-    
-    
-}
 .vardas {
 position: absolute;
 width: 341px;
@@ -37,18 +32,12 @@ font-weight: 500;
 font-size: 24px;
 line-height: 30px;
 color: #02577A;
-
-
 }
-
-    
-
 
 .fieldimg2x {
 width:1440px;
 height: 431px;
 margin-top: 233px;
-    
 }
 .sloganbox {
 position: absolute;
@@ -56,7 +45,6 @@ width: 898px;
 height: 121px;
 left: 271px;
 top: 707px;
-
 border: 2px solid #02577A;
 box-sizing: border-box;
 border-radius: 25px;
@@ -80,14 +68,9 @@ color: #000000;
     height: 906px;
     background-color: #e5e5e5;
         
-       }
+    }
 
-.rpart {
-    width:490px;
-    background-color: lawngreen;
-    
-    
-}
+
 .vardas {
 position: absolute;
 width: 341px;
@@ -99,18 +82,18 @@ font-weight: 500;
 font-size: 29px;
 line-height: 35px;
 color: #000000;
-
 }
+
 .databox {
 position: absolute;
 width: 310px;
 height: 147px;
 left: 125px;
 top: 44px;
-
 background: #FFFFFF;
 border-radius: 25px;
 }
+
 .data {
 position: absolute;
 width: 310px;
@@ -122,18 +105,16 @@ font-weight: 500;
 font-size: 36px;
 line-height: 44px;
 color: #02577A;
-
-
 }
+
 .fieldimg2x {
 position: absolute;
 width: 360px;
 height: 266px;
 left: 100px;
 top: 90px;
-
-    
 }
+
 .sloganbox {
 position: absolute;
 width: 310px;
@@ -144,6 +125,7 @@ border: 2px solid #02577A;
 box-sizing: border-box;
 border-radius: 25px;
 }
+
 .slogan {
 position: absolute;
 width: 202px;
