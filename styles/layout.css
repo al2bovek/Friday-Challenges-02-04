@@ -215,9 +215,9 @@ color: #02577A;
 
 
 .fieldimg2x {
-    width:1440px;
-    height: 431px;
-    margin-top: 233px;
+width:1440px;
+height: 431px;
+margin-top: 233px;
     
 }
 .sloganbox {
@@ -245,10 +245,10 @@ color: #000000;
 }
 @media (max-width: 600px){
     .field {
-        margin: 0;
-        width: 590px;
-        height: 906px;
-        background-color: #e5e5e5;
+    margin: 0;
+    width: 590px;
+    height: 906px;
+    background-color: #e5e5e5;
         
        }
 
@@ -296,12 +296,12 @@ color: #02577A;
 
 }
 .fieldimg2x {
-    position: absolute;
-    width: 360px;
-    height: 266px;
-    left: 100px;
-    top: 90px;
-    background: linear-gradient(0deg, rgba(237, 236, 243, 0.46), rgba(237, 236, 243, 0.46)),   
+position: absolute;
+width: 360px;
+height: 266px;
+left: 100px;
+top: 90px;
+
     
 }
 .sloganbox {
